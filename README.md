@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **ruggero95/ruggero95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +19,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/user-attachments/assets/95a103f5-49e0-4bb8-a74b-fdbbe4c2a2b9" alt="Ruggero Panzeri" />
 </h1>
 
-## Hey! 👋
+## Hey there! 👋
 I'm Ruggero, a 30 years old web developer from Italy 🇮🇹.
 
 - 👨‍💻 Working at [Berry](https://berrysrl.it/) 
@@ -33,7 +32,7 @@ I'm Ruggero, a 30 years old web developer from Italy 🇮🇹.
 - 👨‍💻 TypeScript, JavaScript,PHP
 - ⚙️ React, NestJS
 - 👁️ React Native, Flutter
-- 💽 MySQL, SQL, Mongo
+- 💽 Mongo, MySQL, SQL
 + a lot more :D
 
 ## Contact
